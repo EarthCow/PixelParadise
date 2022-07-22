@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 1ebcff73f9c697d4bbfcd79d945ac783
+guid: 9647c1b979ad8744d8d37e915e5e260a
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -119,10 +119,10 @@ TextureImporter:
       name: CowIdle_0
       rect:
         serializedVersion: 2
-        x: 14
-        y: 11
-        width: 41
-        height: 35
+        x: 0
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -130,8 +130,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 75f8a1ed912b10c4aad101cfb684ff05
-      internalID: 2113847819
+      spriteID: ce4cec8aa1291ae4c9a3028cb03cbf8e
+      internalID: -550364799
       vertices: []
       indices: 
       edges: []
@@ -140,10 +140,10 @@ TextureImporter:
       name: CowIdle_1
       rect:
         serializedVersion: 2
-        x: 73
-        y: 11
-        width: 42
-        height: 34
+        x: 100
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -151,8 +151,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0ab4c46f5b3c4c5448a31fa3e72fe7bd
-      internalID: -727488913
+      spriteID: fdd9b7f32d6de624586c358ccead9366
+      internalID: 1129134468
       vertices: []
       indices: 
       edges: []
@@ -161,10 +161,10 @@ TextureImporter:
       name: CowIdle_2
       rect:
         serializedVersion: 2
-        x: 131
-        y: 11
-        width: 44
-        height: 30
+        x: 200
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -172,8 +172,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f78d302766ad8564d83372c75fc39036
-      internalID: -1855134951
+      spriteID: 8e4270b900b2ba844bcb968c2ba5a713
+      internalID: 1804548446
       vertices: []
       indices: 
       edges: []
@@ -182,10 +182,10 @@ TextureImporter:
       name: CowIdle_3
       rect:
         serializedVersion: 2
-        x: 190
-        y: 11
-        width: 45
-        height: 28
+        x: 300
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -193,8 +193,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0b9cb7ef38b06074b8592eae1e82dfca
-      internalID: 801392333
+      spriteID: aab3af1edea457043b14e38565b3c6aa
+      internalID: 1812418086
       vertices: []
       indices: 
       edges: []
@@ -203,10 +203,10 @@ TextureImporter:
       name: CowIdle_4
       rect:
         serializedVersion: 2
-        x: 251
-        y: 11
-        width: 44
-        height: 30
+        x: 400
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -214,8 +214,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5c34dfd5a502d8f4db2b900ac4d4299a
-      internalID: -1090177802
+      spriteID: 859b0132ca4882a49ae66ff868f6a93c
+      internalID: 650833807
       vertices: []
       indices: 
       edges: []
@@ -224,10 +224,10 @@ TextureImporter:
       name: CowIdle_5
       rect:
         serializedVersion: 2
-        x: 313
-        y: 11
-        width: 42
-        height: 33
+        x: 500
+        y: 0
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -235,8 +235,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4942ac97bbe53c04cb70210930cb779f
-      internalID: 830655040
+      spriteID: 95cd415071d5cb34583b5766dd2e01bc
+      internalID: -740166658
       vertices: []
       indices: 
       edges: []
@@ -252,12 +252,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      CowIdle_0: 2113847819
-      CowIdle_3: 801392333
-      CowIdle_2: -1855134951
-      CowIdle_4: -1090177802
-      CowIdle_1: -727488913
-      CowIdle_5: 830655040
+      CowIdle_0: -550364799
+      CowIdle_3: 1812418086
+      CowIdle_2: 1804548446
+      CowIdle_4: 650833807
+      CowIdle_1: 1129134468
+      CowIdle_5: -740166658
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
