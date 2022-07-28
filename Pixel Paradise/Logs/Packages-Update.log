@@ -19,3 +19,16 @@ The following packages were added:
   com.unity.modules.unityanalytics@1.0.0
   com.unity.modules.vehicles@1.0.0
   com.unity.modules.wind@1.0.0
+
+=== Wed Jul 27 22:50:49 2022
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.cinemachine from version 2.8.4 to 2.8.6
+  com.unity.ide.rider from version 3.0.13 to 3.0.15
+  com.unity.ide.visualstudio from version 2.0.14 to 2.0.16
+  com.unity.learn.iet-framework from version 2.1.2 to 2.2.1
+  com.unity.render-pipelines.universal from version 12.1.6 to 12.1.7
+  com.unity.visualscripting from version 1.7.6 to 1.7.8
