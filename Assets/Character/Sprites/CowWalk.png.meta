@@ -118,8 +118,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e67c1274e9fe72c499a83503b103aff1
-      internalID: -878544474
+      spriteID: 904ec83bf93438449a5de0568dce67e6
+      internalID: -1795300073
       vertices: []
       indices: 
       edges: []
@@ -139,8 +139,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8e714e3bcdab812449042dd1cc540809
-      internalID: 1198415772
+      spriteID: da69fea58dab39c4bbb3465e441fc0d3
+      internalID: -846406550
       vertices: []
       indices: 
       edges: []
@@ -160,8 +160,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9690213fedf80a647ab60bb2f7a187ee
-      internalID: 1317446903
+      spriteID: d2767312af30d1e46bc7269c1fb5b9ac
+      internalID: -424828836
       vertices: []
       indices: 
       edges: []
@@ -181,8 +181,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a23c5c4b06a421b449359977c2956774
-      internalID: -44396710
+      spriteID: 2fdcb0c7c613cdf4899344aa87d8c91b
+      internalID: -1096531578
       vertices: []
       indices: 
       edges: []
@@ -202,29 +202,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5257ebe54fa164441a3eda7c8ded8a3b
-      internalID: 82078248
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: CowWalk_5
-      rect:
-        serializedVersion: 2
-        x: 500
-        y: 0
-        width: 100
-        height: 100
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2f09d2ebf4b509f4b91931a5c69ba508
-      internalID: 499334398
+      spriteID: 398b3ce5c32f84c41b6796e899409b78
+      internalID: -1792078593
       vertices: []
       indices: 
       edges: []
@@ -240,12 +219,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      CowWalk_5: 499334398
-      CowWalk_0: -878544474
-      CowWalk_1: 1198415772
-      CowWalk_2: 1317446903
-      CowWalk_3: -44396710
-      CowWalk_4: 82078248
+      CowWalk_0: -1795300073
+      CowWalk_1: -846406550
+      CowWalk_2: -424828836
+      CowWalk_3: -1096531578
+      CowWalk_4: -1792078593
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
