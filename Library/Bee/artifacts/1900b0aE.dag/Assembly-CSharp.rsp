@@ -377,6 +377,7 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/CameraMovement.cs"
 "Assets/EnemyGFX.cs"
+"Assets/MusicControlScript.cs"
 "Assets/PlayerMovement.cs"
 "Assets/Scenes/CharacterController2D.cs"
 -langversion:9.0
