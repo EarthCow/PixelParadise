@@ -37,11 +37,11 @@ In PixelParadise, you control the Pug character through various levels, each fil
 
 ## Controls
 
-- **Left Arrow** or **A** - Move left.
-- **Right Arrow** or **D** - Move right.
-- **Up Arrow** or **W** - Jump.
+- **Left Arrow**, **A**, or **XInput Left-Stick Left - Move left.
+- **Right Arrow**, **D**. or **XInput Left-Stick Right** - Move right.
+- **Up Arrow**, **W**, or **XInput Y** - Jump.
 - **Down Arrow** or **S** - Crouch (if applicable).
-- **Spacebar** - Use powerup.
+- **Spacebar**, or **XInput A** - Use powerup.
 - **ESC** - Pause the game.
 
 ## Powerups
