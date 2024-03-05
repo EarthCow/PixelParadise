@@ -8,6 +8,9 @@ public class PlayerHealth : MonoBehaviour
     public float health;
     public Animator animator;
 
+    private bool isDead;
+
+    public GameManagerScript gameManager;
     // Start is called before the first frame update
     void Start()
     {
@@ -17,9 +20,11 @@ public class PlayerHealth : MonoBehaviour
 public void TakeDamage(int damage)
     {
         health -= damage;
-        if(health <= 0)
+        if(health <= 0 && !isDead)
         {
             animator.SetTrigger("death");
+            isDead = true;
+            gameManager.gameOver();
         } else {
             animator.SetTrigger("hurt");
             
